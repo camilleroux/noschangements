@@ -1,0 +1,80 @@
+# Hugo variables
+#
+baseurl = "https://example.org/"
+languageCode = "fr_FR"
+DefaultContentLanguage = "fr"
+title = "NosChangements"
+theme = "hugo-theme-bootstrap4-blog"
+# number of posts to show on home/category/tag pages (Default: 10)
+paginate = 10
+
+# optionally override the site's footer with custom copyright text
+copyright = "Créé par [Camille Roux](https://www.camilleroux.com/) </br> Sauf mention contraire, le contenu de ce site est sous licence [Creative Commons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)"
+#googleAnalytics = "UA-123-45"
+#disqusShortname = "XYW"
+
+[permalinks]
+  post = "/posts/:title/"
+  page = "/:slug/"
+
+#[[menu.navbar]]
+#  name = "A propos"
+#  url = "/about/"
+
+
+# Theme variables
+#
+[params]
+  # Site author
+  author = "Camille Roux"
+
+  # Description/subtitle for homepage (can be Markdown)
+  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+
+  # Format dates with Go's time formatting
+  date_format = "02/01/2006"
+
+  # verification string for Google Webmaster Tools
+  #google_verify_meta = "BAi57DROASu4b2mkVNA_EyUsobfA7Mq8BmSg7Rn-Zp9"
+
+  # verification string for Bing Webmaster Tools
+  #bing_verify_meta = "3DA353059F945D1AA256B1CD8A3DA847"
+
+  # verification string for Yandex Webmaster Tools
+  #yandex_verify_meta = "66b077430f35f04a"
+
+  # Optionally display a message about the site's use of cookies, which may be
+  # required for your site in the European Union. Set the parameter below to a
+  # page where the user can get more information about cookies, either on your
+  # site or externally, for example:
+  #cookie_consent_info_url = "/cookie-information/"
+  #cookie_consent_info_url = "http://cookiesandyou.com"
+
+  # show sharing icons on pages/posts (default: true)
+  sharingicons = false
+
+  # Display post summaries instead of content in list templates (default: true)
+  #truncate = true
+
+  # Disable the use of sub-resource integrity on CSS/JS assets (default: false)
+  # Useful if you're using a CDN or other host where you can't control cache headers
+  disable_sri = true
+
+  [params.social]
+    # Optional, used for attribution in Twitter cards (ideally not a person
+    # for example: nytimes, flickr, NatGeo, etc).
+    # See: https://dev.twitter.com/cards/types/summary-large-image
+    twitter = "camilleroux"
+
+# Default content language for Hugo 0.17's multilingual support (default is "en")
+# See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
+# DefaultContentLanguage = "fr"
+
+# Languages to render
+[languages.fr]
+  [languages.fr.Taxonomies]
+    category = "categories"
+    tag = "étiquettes"
+#[languages.bg]
+
+# vim: ts=2 sw=2 et
