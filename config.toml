@@ -1,6 +1,6 @@
 # Hugo variables
 #
-baseurl = "https://noschangements.netlify.com"
+baseurl = "https://noschangements.netlify.com/"
 languageCode = "fr_FR"
 DefaultContentLanguage = "fr"
 title = "NosChangements"
