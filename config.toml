@@ -5,6 +5,7 @@ languageCode = "fr_FR"
 DefaultContentLanguage = "fr"
 title = "NosChangements"
 theme = "hugo-theme-bootstrap4-blog"
+enableRobotsTXT=true
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 10
 
