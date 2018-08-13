@@ -1,19 +1,14 @@
 ---
-title: "Charte Code de Conduite Contributeurs"
-linktitle: "Code de Conduite"
-slug: "code-de-conduite"
-menu: "navbar"
----
+title: Charte Code de Conduite Contributeurs
+linktitle: Code de Conduite
+slug: code-de-conduite
+menu:
+  navbar: {}
 
+---
 ## Notre engagement
 
-Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous nous
-engageons, en tant que contributeur·rice·s et responsables de ce projet, à faire
-de la participation une expérience exempte de harcèlement pour tout le
-monde, quel que soit le niveau d'expérience, le sexe, l'identité ou
-l'expression de genre, l'orientation sexuelle, le handicap, l'apparence
-personnelle, la taille physique, la race, l'origine ethnique, l'âge, la
-religion ou la nationalité.
+Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous nous engageons, en tant que contributeur·rice·s et responsables de ce projet, à faire de la participation une expérience exempte de harcèlement pour tout le monde, quel que soit le niveau d'expérience, le sexe, l'identité ou l'expression de genre, l'orientation sexuelle, le handicap, l'apparence personnelle, la taille physique, l'origine ethnique, l'âge, la religion ou la nationalité.
 
 ## Nos critères
 
@@ -28,14 +23,14 @@ Exemples de comportements qui contribuent à créer un environnement positif :
 Exemples de comportements non acceptables :
 
 * l'utilisation de langage ou d'imagerie sexualisés et les avances sexuelles
-non sollicitées
+  non sollicitées
 * le _trolling_, les commentaires insultants ou désobligeants, et les
-attaques personnelles ou d'ordre politique
+  attaques personnelles ou d'ordre politique
 * le harcèlement en public ou en privé
 * la publication d'informations privées de tierces personnes, telles que
   des adresses physiques ou électroniques, sans permission explicite
 * toute conduite qui pourrait être raisonnablement considérée comme
-inappropriée dans le milieu professionnel
+  inappropriée dans le milieu professionnel
 
 # Nos responsabilités
 
@@ -53,7 +48,7 @@ comportements qu'il·elle·s jugent inappropriés, menaçants, injurieux ou nuis
 
 Ce Code de Conduite s'applique à la fois au sein des espaces du projet
 ainsi que dans les espaces publics lorsqu'un individu représente le projet
-ou sa communauté. Font parties des exemples de représentation d'un projet ou 
+ou sa communauté. Font parties des exemples de représentation d'un projet ou
 d'une communauté le fait d'utiliser une adresse email propre au projet, de
 poster sur les réseaux sociaux avec un compte officiel, ou d'intervenir comme
 représentant programmé à un événement en-ligne ou hors-ligne. La représentation
@@ -78,5 +73,4 @@ répercussions définies par d'autres membres de la direction du projet.
 
 Ce Code de Conduite est adapté du [Contributor Covenant](https://www.contributor-covenant.org),
 version 1.4.0, disponible à
-<https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct>
-
+[https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct](https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct)
