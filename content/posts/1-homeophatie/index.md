@@ -5,9 +5,6 @@ tags: ["homéopathie"]
 categories : ["santé"]
 ---
 
-## 🙂 Résumé en émoji
-🤒💶💊🤒💉😀
-
 ## 🔍 Contexte
 Après avoir lu plusieurs articles scientifiques dans le passé sur le sujet, je savais que l'homéopathie n'avait pas plus d'effet que l'effet placebo. 
 
