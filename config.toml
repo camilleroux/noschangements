@@ -12,7 +12,7 @@ enableGitInfo=true
 paginate = 10
 
 # optionally override the site's footer with custom copyright text
-copyright = "Créé par [Camille Roux](https://www.camilleroux.com/) </br> Sauf mention contraire, le contenu de ce site est sous licence [Creative Commons BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)"
+copyright = "Créé par [Camille Roux](https://www.camilleroux.com/) </br> Sauf mention contraire, le contenu de ce site est sous licence [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)"
 #googleAnalytics = "UA-123-45"
 #disqusShortname = "XYW"
 
@@ -32,7 +32,7 @@ copyright = "Créé par [Camille Roux](https://www.camilleroux.com/) </br> Sauf 
   author = "Camille Roux"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "Le site qui va vous donner envie de changer"
 
   # Format dates with Go's time formatting
   date_format = "02/01/2006"
