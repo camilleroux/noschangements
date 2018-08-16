@@ -13,7 +13,7 @@ paginate = 10
 
 # optionally override the site's footer with custom copyright text
 copyright = "Créé par [Camille Roux](https://www.camilleroux.com/) </br> Sauf mention contraire, le contenu de ce site est sous licence [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)"
-#googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-124096389-1"
 #disqusShortname = "XYW"
 
 [permalinks]
@@ -38,7 +38,7 @@ copyright = "Créé par [Camille Roux](https://www.camilleroux.com/) </br> Sauf 
   date_format = "02/01/2006"
 
   # verification string for Google Webmaster Tools
-  #google_verify_meta = "BAi57DROASu4b2mkVNA_EyUsobfA7Mq8BmSg7Rn-Zp9"
+  google_verify_meta = "QT6lFYL_BtHCG0Uy4JwUzQIFWYDmw_1isiwFXtg8eVE"
 
   # verification string for Bing Webmaster Tools
   #bing_verify_meta = "3DA353059F945D1AA256B1CD8A3DA847"
