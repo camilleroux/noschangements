@@ -38,7 +38,7 @@ googleAnalytics = "UA-124096389-1"
   date_format = "02/01/2006"
 
   # verification string for Google Webmaster Tools
-  google_verify_meta = "QT6lFYL_BtHCG0Uy4JwUzQIFWYDmw_1isiwFXtg8eVE"
+  google_verify_meta = "P0tpRN2wi4n01OB0LzhkX_hKKOcO9lo9ntd-buXM4kU"
 
   # verification string for Bing Webmaster Tools
   #bing_verify_meta = "3DA353059F945D1AA256B1CD8A3DA847"
