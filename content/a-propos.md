@@ -3,7 +3,7 @@ title: "À propos"
 menu: "navbar"
 ---
 
-Je souhaite décomplexer, vulgariser et démocratiser le fait de se remettre en question et de changer. 
+Je souhaite décomplexer, vulgariser et démocratiser le fait de se remettre en question et de changer. Le tout en toute bienveillance, sans critique ni jugement.
 
 
 ## 🤔 Pourquoi ?
@@ -17,12 +17,12 @@ Je souhaite décomplexer, vulgariser et démocratiser le fait de se remettre en 
 
 Je cultive le fait d'être libre et d'avoir un minimum de contraire. Il serait totalement contradictoire de vouloir être libre (et aussi que les autres le soient) tout en imposant des changements à faire.
 
-Donc, le contenu de ce site n'aura jamais pour but de convaincre les lecteurs de faire un changement particulier (excepté le fait même de changer et de se remettre en question 🙂). 
+Donc, le contenu de ce site n'aura jamais pour but de convaincre les lecteur·rice·s de faire un changement particulier (excepté le fait même de changer et de se remettre en question 🙂). 
 Plus précisément, je veux que personne ne se sente agressé·e ou oppressé·e par un article de ce site. L'inclusion est de mise !
 
 ## 👨‍💻 Quoi ?
 
-Ce site est reccueil de remises en questions et de changements simples et accessible. 
+Ce site est un reccueil de remises en questions et de changements simples et accessibles. 
 Tout le contenu (sauf mention contraire) est sous licence libre (voir pied de page). 
 
 Ce site va aussi être en changement continu. Le site et son contenu sont open source. N'hésitez pas à proposer des modifications.
