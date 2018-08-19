@@ -33,7 +33,7 @@ googleAnalytics = "UA-124096389-1"
   author = "Camille Roux"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "Le site qui va vous donner envie de changer"
+  description = "Parlons de nos changements et de nos remises en question. Le tout sans jugement, sans culpatibilisation, sans critique... "
 
   # Format dates with Go's time formatting
   date_format = "02/01/2006"
@@ -56,9 +56,6 @@ googleAnalytics = "UA-124096389-1"
 
   # show sharing icons on pages/posts (default: true)
   sharingicons = false
-
-  # Display post summaries instead of content in list templates (default: true)
-  #truncate = true
 
   # Disable the use of sub-resource integrity on CSS/JS assets (default: false)
   # Useful if you're using a CDN or other host where you can't control cache headers
