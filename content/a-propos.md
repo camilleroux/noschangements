@@ -20,8 +20,6 @@ Je cultive le fait d'être libre et d'avoir un minimum de contraire. Il serait t
 Donc, le contenu de ce site n'aura jamais pour but de convaincre les lecteurs de faire un changement particulier (excepté le fait même de changer et de se remettre en question 🙂). 
 Plus précisément, je veux que personne ne se sente agressé·e ou oppressé·e par un article de ce site. L'inclusion est de mise !
 
-Pour plus d'information, je vous invite à consulter le [Code de Conduite]({{< ref "code-de-conduite.md" >}}).
-
 ## 👨‍💻 Quoi ?
 
 Ce site est reccueil de remises en questions et de changements simples et accessible. 
