@@ -1,6 +1,6 @@
 ---
 title: "#1 Je demande à ce qu'on ne prescrive plus d'homéopathie"
-date: 2017-08-07T16:12:29+02:00
+date: 2017-08-19
 tags: ["homéopathie"]
 categories : ["santé"]
 ---
@@ -19,7 +19,6 @@ Je suis tombé sur ce très bon épisode sur les médecines alternatives du podc
 <div class="embed-responsive embed-responsive-21by9">
     <iframe src="https://www.franceculture.fr/player/export-reecouter?content=40109501-29e1-43e3-b45f-63d1c17f04f9" width="481" frameborder="0" scrolling="no" height="137" class="embed-responsive-item"></iframe>
 </div>
-
 Puis un peu plus tard, sur cette courte vidéo (~4min).
 
 <div class="embed-responsive embed-responsive-16by9">
