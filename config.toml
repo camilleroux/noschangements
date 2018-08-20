@@ -17,14 +17,9 @@ copyright = "Créé par [Camille Roux](https://www.camilleroux.com/) </br> Sauf 
 googleAnalytics = "UA-124096389-1"
 #disqusShortname = "XYW"
 
-[permalinks]
-  post = "/posts/:title/"
-  page = "/:slug/"
-
 #[[menu.navbar]]
 #  name = "A propos"
 #  url = "/about/"
-
 
 # Theme variables
 #
