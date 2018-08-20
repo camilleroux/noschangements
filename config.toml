@@ -1,7 +1,6 @@
 # Hugo variables
 #
 baseurl = "https://www.noschangements.fr/"
-languageCode = "fr_FR"
 languageCode = "fr-FR"
 DefaultContentLanguage = "fr"
 title = "NosChangements"
