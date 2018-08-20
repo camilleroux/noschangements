@@ -28,7 +28,7 @@ googleAnalytics = "UA-124096389-1"
   author = "Camille Roux"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "Parlons de nos changements et de nos remises en question. Le tout sans jugement, sans culpatibilisation, sans critique... "
+  description = "Parlons de nos changements et de nos remises en question. Le tout sans jugement, sans culpabilisation, sans critique... "
 
   # Format dates with Go's time formatting
   date_format = "02/01/2006"
