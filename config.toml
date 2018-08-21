@@ -18,9 +18,9 @@ copyright = "Sauf mention contraire, le contenu de ce site est sous licence [Cre
 googleAnalytics = "UA-124096389-1"
 #disqusShortname = "XYW"
 
-#[[menu.navbar]]
-#  name = "A propos"
-#  url = "/about/"
+[[menu.navbar]]
+  name = "Forum"
+  url = "https://forum.noschangements.fr/"
 
 # Theme variables
 #
