@@ -25,7 +25,7 @@ Puis un peu plus tard, sur cette courte vidéo (~4min).
     <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x6j1mod" allowfullscreen allow="autoplay" class="embed-responsive-item"></iframe>
 </div>
 
-Je me senté plutôt bien informé sur le fait que l'homéopathie n'avait pas plus d'effet que l'effet placébo. Mais là, j'étais convaincu !
+Je me sentais plutôt bien informé sur le fait que l'homéopathie n'avait pas plus d'effet que l'effet placebo. Mais là, j'étais convaincu !
 
 ## 👣 Le changement
 Je décide de ne plus me laisser prescrire de l'homéopathie par un médécin et de ne plus en acheter.

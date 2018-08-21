@@ -15,7 +15,7 @@ Je souhaite décomplexer, vulgariser et démocratiser le fait de se remettre en 
 
 ## 🌈 Comment ?
 
-Je cultive le fait d'être libre et d'avoir un minimum de contraire. Il serait totalement contradictoire de vouloir être libre (et aussi que les autres le soient) tout en imposant des changements à faire.
+Je cultive le fait d'être libre et d'avoir un minimum de contraintes. Il serait totalement contradictoire de vouloir être libre (et aussi que les autres le soient) tout en imposant des changements à faire.
 
 Donc, le contenu de ce site n'aura jamais pour but de convaincre les lecteur·rice·s de faire un changement particulier (excepté le fait même de changer et de se remettre en question 🙂). 
 Plus précisément, je veux que personne ne se sente agressé·e ou oppressé·e par un article de ce site. L'inclusion est de mise !
