@@ -31,7 +31,7 @@ googleAnalytics = "UA-124096389-1"
   # Description/subtitle for homepage (can be Markdown)
   description = "Parlons de nos changements et de nos remises en question. Le tout sans jugement, sans culpabilisation, sans critique... "
 
-  footerText = "Créé par [Camille Roux](https://www.camilleroux.com/) </br> Sauf mention contraire, le contenu de ce site est sous licence [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)"
+  footerText = "Créé par [Camille Roux](https://www.camilleroux.com/) • Ce site est éditable sur [Github](https://github.com/camilleroux/noschangements) </br> Sauf mention contraire, le contenu de ce site est sous licence [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)"
 
   # Format dates with Go's time formatting
   date_format = "02/01/2006"
@@ -44,6 +44,8 @@ googleAnalytics = "UA-124096389-1"
 
   # verification string for Yandex Webmaster Tools
   #yandex_verify_meta = "66b077430f35f04a"
+
+  discourseUrl = "https://forum.noschangements.fr/"
 
   # Optionally display a message about the site's use of cookies, which may be
   # required for your site in the European Union. Set the parameter below to a
