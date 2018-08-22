@@ -36,5 +36,5 @@ Le site est [open source](https://github.com/camilleroux/noschangements) si vous
 
 ## 📚 Les ressources pour aller plus loin
 
-- [À propos de NosChangements.fr]({{< ref "a-propos.md" >}})
+- [À propos de NosChangements.fr]({{< ref "/a-propos.md" >}})
 - [Forum de discussion](https://forum.noschangements.fr/)
