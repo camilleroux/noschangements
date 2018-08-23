@@ -3,3 +3,6 @@ https://noschangements.netlify.com/* https://www.noschangements.fr/:splat 301!
 
 # Redirect default Netlify subdomain to primary domain
 https://noschangements.fr/* https://www.noschangements.fr/:splat 301!
+
+# typo fix
+/posts/1-homeophatie/  /posts/1-homeopathie/
