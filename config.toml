@@ -18,6 +18,13 @@ copyright = "Sauf mention contraire, le contenu de ce site est sous licence [Cre
 googleAnalytics = "UA-124096389-1"
 #disqusShortname = "XYW"
 
+[social]
+  # Optional, used for attribution in Twitter cards (ideally not a person
+  # for example: nytimes, flickr, NatGeo, etc).
+  # See: https://dev.twitter.com/cards/types/summary-large-image
+  twitter = "noschangements"
+  facebook = "noschangements"
+
 [[menu.navbar]]
   name = "Forum"
   url = "https://forum.noschangements.fr/"
@@ -60,12 +67,6 @@ googleAnalytics = "UA-124096389-1"
   # Disable the use of sub-resource integrity on CSS/JS assets (default: false)
   # Useful if you're using a CDN or other host where you can't control cache headers
   disable_sri = true
-
-  [params.social]
-    # Optional, used for attribution in Twitter cards (ideally not a person
-    # for example: nytimes, flickr, NatGeo, etc).
-    # See: https://dev.twitter.com/cards/types/summary-large-image
-    twitter = "camilleroux"
 
 # Default content language for Hugo 0.17's multilingual support (default is "en")
 # See: https://github.com/spf13/hugo/blob/master/docs/content/content/multilingual.md
