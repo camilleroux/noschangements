@@ -19,11 +19,13 @@ Je suis tombé sur ce tweet dans ma timeline il y a quelques jours :
 J'ai également vu un tweet de DHH, le créateur de Ruby on Rails (framework web utilisé par Airbnb, 500px, Github, Dribble, Groupon...) quelques jours plus tard qui proposait justement de ne plus utiliser les mots _"whitelist"_, _"blacklist"_... dans le code de Ruby on Rails :
 {{< tweet 1032051950781489153>}}
 
-Je n'avais jamais réfléchi à l'origine raciste de ces expressions. 
+De nombreux projets/organisations/entreprises ont supprimé les termes _master/slave_ de leur code : Drupal, Django, Redis, CouchDB ([source](https://github.com/antirez/redis/issues/3185)), Mozilla ([source](https://blog.mozilla.org/blog/2015/12/10/mozilla-open-source-support-first-awards-made/))...
+
+Je n'avais jamais réfléchi à l'origine raciste de ces expressions ou du moins, au risque qu'elles ne soit pas inclusives.
 
 ## 👣 Le changement
 
-Je décide de ne plus utiliser les termes _"whitelist"_, _"blacklist"_, _"master/slave"_ et leurs équivalents français car leur origine me dérange et qu'il est facile de les remplacer.
+Je décide de ne plus utiliser les termes _"whitelist"_, _"blacklist"_, _"master/slave"_ et leurs équivalents français. De plus, il est facile de les remplacer.
 
 ## 🌈 L'après
 J'utilise ces termes le plus souvent en anglais donc j'utilise les traductions proposées par ce tweet. 
