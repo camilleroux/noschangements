@@ -1,6 +1,6 @@
 ---
 title: "#3 Je montre de la gratitude lorsqu'on me dit \"non\""
-date: 2017-09-13
+date: 2017-09-16
 categories : ["consentement"]
 ---
 
