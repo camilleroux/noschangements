@@ -13,7 +13,7 @@ Si on veut moins se fier aux normes, il faut trouver d'autres moyens de savoir q
 
 Vous ne savez pas si vous pouvez faire la bise à une personne ? Demandez-lui !
 
-Le consentement c'est bien, mais il est pas toujours évidement de se sentir libre de répondre ce qu'on veut lorsqu'on nous le demande. On peut être tenté de faire un effort car on peut ne pas vouloir déranger ou décevoir, se sentir forcé·e ou obligé·e ...
+Le consentement c'est bien, mais il n'est pas toujours évidement de se sentir libre de répondre ce qu'on veut lorsqu'on nous le demande. On peut être tenté de faire un effort car on peut ne pas vouloir déranger ou décevoir, se sentir forcé·e ou obligé·e ...
 
 
 ## 💡 L'élément déclencheur
