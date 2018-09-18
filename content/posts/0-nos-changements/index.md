@@ -15,7 +15,7 @@ Enfin, j'ai souvent aimé partager mes réflexions avec mon entourage ou sur mon
 
 ## 💡 L'élément déclencheur
 
-Dernièrement, je me suis renseigné sur la notion de "cadre safe". Ce que j'appelle un "cadre safe" c'est un environement où les personnes présentes peuvent échanger en ayant l'assurance de ne pas être offensées, jugées, critiquées...
+Dernièrement, je me suis renseigné sur la notion de "cadre safe". Ce que j'appelle un "cadre safe" c'est un environnement où les personnes présentes peuvent échanger en ayant l'assurance de ne pas être offensées, jugées, critiquées...
 
 Parler d'une réflexion ou d'un changement qu'on souhaite faire peut vite être sujet à des jugements/critiques. J'ai donc cogité sur des cadres safes pour parler de nos changements librement !
 
