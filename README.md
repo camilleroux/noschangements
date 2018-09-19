@@ -43,7 +43,7 @@ The master branch is automatically deployed in production.
 
 * **Camille Roux** - *Initial work* - [Camille Roux](https://www.camilleroux.com/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/camilleroux/noschangements/graphs/contributors) who participated in this project.
 
 ## License
 
