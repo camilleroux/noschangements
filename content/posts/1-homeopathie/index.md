@@ -1,6 +1,6 @@
 ---
 title: "#1 Je demande à ce qu'on ne me prescrive plus d'homéopathie"
-date: 2017-08-21
+date: 2018-08-21
 tags: ["homéopathie"]
 categories : ["santé"]
 ---

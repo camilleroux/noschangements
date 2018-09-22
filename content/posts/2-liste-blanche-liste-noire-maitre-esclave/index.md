@@ -1,6 +1,6 @@
 ---
 title: "#2 J'évite les expressions \"liste banche\", \"liste noire\", \"maître/esclave\"..."
-date: 2017-08-30
+date: 2018-08-30
 categories : ["écriture inclusive"]
 tags: ["informatique", "racisme"]
 
