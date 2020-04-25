@@ -1,5 +1,5 @@
 ---
-title: "#2 J'évite les expressions \"liste banche\", \"liste noire\", \"maître/esclave\"..."
+title: "#2 J'évite les expressions \"liste blanche\", \"liste noire\", \"maître/esclave\"..."
 date: 2018-08-30
 categories : ["écriture inclusive"]
 tags: ["informatique", "racisme"]
