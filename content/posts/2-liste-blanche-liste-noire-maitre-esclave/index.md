@@ -29,4 +29,4 @@ Je décide de ne plus utiliser les termes _"whitelist"_, _"blacklist"_, _"master
 
 ## 🌈 L'après
 J'utilise ces termes le plus souvent en anglais donc j'utilise les traductions proposées par ce tweet. 
-Si vous avez propositions de traductions françaises de _"denylist"_, _"allowlist"_, _"primary/replica"_... je suis preneur !
+Si vous avez des propositions de traductions françaises de _"denylist"_, _"allowlist"_, _"primary/replica"_... je suis preneur !
